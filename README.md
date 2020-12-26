@@ -6,3 +6,5 @@ The project is about the automation of tracking loans and contributions of the e
 * Download All the Files
 # Executing program
 * TBA
+# Features
+* Import/Export Excel
